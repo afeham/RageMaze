@@ -7,3 +7,4 @@ Yes, I know the code is bad, but hey, we all got to start somewhere, right? :P
 
 P.S. This is also multiplayer and can support up to 2 players. One player will use the WASD keys and the other will use the up, down, left, right keys.
 
+Edit: I also lost the map image :/
