@@ -28,7 +28,7 @@ class cell:
         self.east = True
         self.south = True
         self.west = True
-
+#grid
 row1 = [1,1,1,1,1,1,1,1,1,1,1,1]
 row2 = [1,1,1,1,1,1,1,1,1,1,1,1]
 row3 = [1,1,1,1,1,1,1,1,1,1,1,1]
